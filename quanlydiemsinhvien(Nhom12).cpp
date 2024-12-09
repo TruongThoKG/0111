@@ -1,3 +1,10 @@
+// chỉnh sửa lần cuối vào ngày 08/11 
+// Phân hiệu Đại Học Giao Thông Vận Tải tại tp.HCM ( UTC2 )
+// nhóm thực hiện nhóm 8 
+// sinh viên thực hiện Lê Trường Thọ      CQ.KTĐTVT.64
+//                     Bùi Quang Huy	  CQ.KTĐTVT.64
+// 		       Nguyễn Phúc Thảo   CQ.KTĐTVT.64
+
 #include <fstream>
 #include <iostream>
 #include <cstdio>
